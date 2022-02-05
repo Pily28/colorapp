@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorapp-app-react/static/css/main.e6c13ad2.css",
+    "main.js": "/colorapp-app-react/static/js/main.0124ccbe.js",
+    "static/js/787.a6791808.chunk.js": "/colorapp-app-react/static/js/787.a6791808.chunk.js",
+    "index.html": "/colorapp-app-react/index.html",
+    "main.e6c13ad2.css.map": "/colorapp-app-react/static/css/main.e6c13ad2.css.map",
+    "main.0124ccbe.js.map": "/colorapp-app-react/static/js/main.0124ccbe.js.map",
+    "787.a6791808.chunk.js.map": "/colorapp-app-react/static/js/787.a6791808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0124ccbe.js"
+  ]
+}
